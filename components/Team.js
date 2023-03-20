@@ -1,8 +1,8 @@
 import Image from "next/image";
 import teamImg1 from "/public/images/team/team1.jpg";
 import teamImg2 from "/public/images/team/team2.jpg";
-import teamImg3 from "/public/images/team/rajib.jpg";
-import teamImg4 from "/public/images/team/team4.jpg";
+import teamImg3 from "/public/images/team/team3.jpg";
+import teamImg4 from "/public/images/team/rajib.jpg";
 import teamImg5 from "/public/images/team/team5.webp";
 import teamImg6 from "/public/images/team/team6.jpg";
 
